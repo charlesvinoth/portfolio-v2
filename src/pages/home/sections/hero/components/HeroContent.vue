@@ -14,14 +14,14 @@ function downloadResume() {
     <SectionTitle title="Hi, I'm Charles Vinoth." />
 
     <h1 class="mt-6 text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-6xl">
-      Lead Front-end Developer
+      Senior Front-end Developer
     </h1>
 
     <SectionDescription class="mt-6">
-      Highly motivated and results-oriented Lead Front-End Developer with over 6 years of experience
-      crafting user-centric web and mobile applications. Proven ability to architect, develop, and
-      deliver high-performance, responsive experiences using modern frameworks (Vue.js, React.js)
-      and best practices.
+      Highly motivated and results-oriented Senior Front-End Developer with over 7 years of
+      experience crafting user-centric web and mobile applications. Proven ability to architect,
+      develop, and deliver high-performance, responsive experiences using modern frameworks (Vue.js,
+      React.js) and best practices.
     </SectionDescription>
 
     <SectionDescription class="mt-4">

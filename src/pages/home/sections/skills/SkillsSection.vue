@@ -80,6 +80,10 @@ const skills = {
       name: 'next'
     },
     {
+      label: 'Angular',
+      name: 'angular'
+    },
+    {
       label: 'Nuxt.js',
       name: 'nuxt'
     },
